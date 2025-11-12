@@ -28,7 +28,6 @@
 #include <linux/suspend.h>
 #include <linux/tsacct_kern.h>
 #include <linux/vtime.h>
-
 #include <uapi/linux/sched/types.h>
 
 #include "sched.h"
@@ -51,4 +50,3 @@
 
 #include "cputime.c"
 #include "deadline.c"
-
